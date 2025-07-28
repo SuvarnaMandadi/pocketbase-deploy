@@ -1,0 +1,12 @@
+{
+  "smtp": {
+    "enabled" : true,
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "username": "chatmate.reset@gmail.com",
+    "password": "eytt xhjw qkqd hykj",
+    "encryption": "tls",
+    "from_address": "chatmate.reset@gmail.com",
+    "from_name": "ChatMate Support"
+  }
+}
