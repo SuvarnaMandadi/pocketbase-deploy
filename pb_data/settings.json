@@ -1,4 +1,5 @@
 {
+  "appUrl": "https://chat-app-qv8j.onrender.com",
   "smtp": {
     "enabled" : true,
     "host": "smtp.gmail.com",
